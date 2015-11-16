@@ -1,4 +1,4 @@
-PARA QUE SIRVE GITHUB: Entre ga herramientas mas utiles para el trabajo en equipo
+PARA QUE SIRVE GITHUB: Entrega herramientas mas utiles para el trabajo en equipo
 
 COMPARAR CON DROPBOX,ONEDRIVE,GOOGLEDRIVE
 
